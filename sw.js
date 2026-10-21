@@ -1,12 +1,12 @@
 self.addEventListener('install', function (e) {
   e.waitUntil(
-    caches.open('rci-apply-v1').then(function (cache) {
+    caches.open('rtps-apply-v1').then(function (cache) {
       return cache.addAll([
-        '/rci-apply/',
-        '/rci-apply/index.html',
-        '/rci-apply/manifest.json',
-        '/rci-apply/icons/icon-192.png',
-        '/rci-apply/icons/icon-512.png'
+        '/RTPS-Apply/',
+        '/RTPS-Apply/index.html',
+        '/RTPS-Apply/manifest.json',
+        '/RTPS-Apply/icons/icon-192.png',
+        '/RTPS-Apply/icons/icon-512.png'
       ]);
     })
   );
@@ -17,7 +17,7 @@ self.addEventListener('activate', function (e) {
   e.waitUntil(
     caches.keys().then(function (keys) {
       return Promise.all(
-        keys.filter(function (k) { return k !== 'rci-apply-v1'; })
+        keys.filter(function (k) { return k !== 'rtps-apply-v1'; })
             .map(function (k) { return caches.delete(k); })
       );
     })
