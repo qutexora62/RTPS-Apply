@@ -41,22 +41,23 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <strong>Senior Software Engineer & AI/ML Specialist</strong><br /><br />
-  I architect <strong>production-grade</strong> intelligent systems at the intersection of <strong>artificial intelligence</strong>,
-  <strong>machine learning</strong>, and <strong>full-stack engineering</strong>. With a product-first mindset,
-  I bridge the gap between cutting-edge research and scalable, enterprise-ready solutions.
+  <strong>Developer & Creator</strong><br /><br />
+  I'm <strong>Aarav</strong> — an I.Sc student and a passionate self-taught developer.
+  I love building <strong>clean, modern web apps</strong> and <strong>Android applications</strong>
+  that are fast, simple, and a joy to use.
   <br /><br />
-  My work spans <strong>end-to-end AI product development</strong> — from data pipelines and model training
-  to high-performance APIs and cloud-native deployments. I thrive in environments where
-  <strong>engineering excellence</strong> meets <strong>business impact</strong>.
+  I build everything right from my <strong>Android device using Termux</strong> — no PC, no limits.
+  From frontend design to backend logic, I enjoy turning ideas into real, working products.
+  I care deeply about <strong>clean code</strong>, <strong>thoughtful UI/UX</strong>, and
+  <strong>learning something new every single day</strong>.
 </p>
 
 <p align="center">
-  <strong>🔭 Open To</strong> &nbsp;|&nbsp;
-  <strong>👥</strong> Senior Engineering Roles &nbsp;|&nbsp;
-  <strong>🧠</strong> AI/ML Leadership &nbsp;|&nbsp;
-  <strong>🚀</strong> Open Source Collaboration &nbsp;|&nbsp;
-  <strong>📢</strong> Technical Speaking
+  <strong>🔭 Currently</strong> &nbsp;|&nbsp;
+  <strong>📱</strong> Android &amp; Web Development &nbsp;|&nbsp;
+  <strong>🎨</strong> UI/UX Design &nbsp;|&nbsp;
+  <strong>⚡</strong> Building with Termux &nbsp;|&nbsp;
+  <strong>🌱</strong> Always Learning
 </p>
 
 <!-- ======================================================================== -->
