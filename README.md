@@ -381,47 +381,6 @@
 <!-- ======================================================================== -->
 <!-- ACHIEVEMENTS SECTION                                                     -->
 <!-- ======================================================================== -->
-
-## 🏆 Achievements
-
-<p align="center">
-  <table align="center">
-    <thead>
-      <tr>
-        <th>Recognition</th>
-        <th>Details</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>🏅 Top 1% GitHub Profile</strong></td>
-        <td>Ranked among the top 1% of GitHub profiles globally for open-source contributions and engineering impact</td>
-      </tr>
-      <tr>
-        <td><strong>🌟 Google Developer Expert — ML</strong></td>
-        <td>Recognized by Google for expertise in Machine Learning and contributions to the developer community</td>
-      </tr>
-      <tr>
-        <td><strong>📊 Kaggle Grandmaster</strong></td>
-        <td>Achieved Grandmaster status with 5+ gold medals in competitive ML challenges</td>
-      </tr>
-      <tr>
-        <td><strong>🚀 AWS Community Builder</strong></td>
-        <td>Selected as an AWS Community Builder for contributions to cloud-native AI/ML solutions</td>
-      </tr>
-      <tr>
-        <td><strong>📝 10+ Research Publications</strong></td>
-        <td>Published in top-tier conferences including NeurIPS, ICML, and CVPR</td>
-      </tr>
-      <tr>
-        <td><strong>💡 3 Patent Filings</strong></td>
-        <td>Filed patents in the areas of distributed AI training and real-time anomaly detection</td>
-      </tr>
-    </tbody>
-  </table>
-</p>
-
-<!-- ======================================================================== -->
 <!-- SECTION DIVIDER                                                          -->
 <!-- ======================================================================== -->
 
@@ -460,28 +419,6 @@
 <!-- ======================================================================== -->
 <!-- CODING PROFILES SECTION                                                  -->
 <!-- ======================================================================== -->
-
-## 💻 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/your-profile">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="https://geeksforgeeks.org/user/your-profile">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  &nbsp;
-  <a href="https://hackerrank.com/your-profile">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  &nbsp;
-  <a href="https://codechef.com/your-profile">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-</p>
-
-<!-- ======================================================================== -->
 <!-- SECTION DIVIDER                                                          -->
 <!-- ======================================================================== -->
 
@@ -489,24 +426,6 @@
 
 <!-- ======================================================================== -->
 <!-- GITHUB ANALYTICS SECTION                                                 -->
-<!-- ======================================================================== -->
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=C9D1D9" width="48%" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=your-username&theme=dark&hide_border=true&background=0D1117&stroke=9B59B6&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6" width="48%" alt="GitHub Streak" />
-  </a>
-  <br /><br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9B59B6&text_color=C9D1D9" width="45%" alt="Top Languages" />
-  </a>
-</p>
-
 <!-- ======================================================================== -->
 <!-- SECTION DIVIDER                                                          -->
 <!-- ======================================================================== -->
@@ -533,16 +452,6 @@
 
 <!-- ======================================================================== -->
 <!-- CONTRIBUTION ACTIVITY SECTION                                            -->
-<!-- ======================================================================== -->
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0D1117&color=9B59B6&line=9B59B6&point=FFFFFF&area=true&hide_border=true" width="90%" alt="Contribution Graph" />
-  </a>
-</p>
-
 <!-- ======================================================================== -->
 <!-- SECTION DIVIDER                                                          -->
 <!-- ======================================================================== -->
@@ -571,34 +480,6 @@
 
 <!-- ======================================================================== -->
 <!-- CURRENT FOCUS SECTION                                                    -->
-<!-- ======================================================================== -->
-
-## 🎯 Current Focus
-
-```yaml
-Learning:
-  - Advanced Reinforcement Learning (Multi-Agent Systems)
-  - Graph Neural Networks (Graph Transformers)
-  - Rust for High-Performance Systems
-
-Building:
-  - Open-source MLOps framework with native LLM support
-  - Real-time multi-modal AI assistant for code generation
-  - Distributed training pipeline for 100B+ parameter models
-
-Exploring:
-  - Neuro-symbolic AI (hybrid reasoning + learning)
-  - Quantum Machine Learning algorithms
-  - Edge AI / TinyML for IoT devices
-
-Open To:
-  - Full-time Senior/Staff Engineering roles (AI/ML focus)
-  - AI/ML consulting engagements
-  - Open-source collaborations (Python, ML, Infrastructure)
-  - Technical advisory for AI-first startups
-  - Speaking opportunities at conferences/meetups
-```
-
 <!-- ======================================================================== -->
 <!-- SECTION DIVIDER                                                          -->
 <!-- ======================================================================== -->
